@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey Everyone🖖🏽
 
-<!--
-**felipeamodio/felipeamodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe Alves, I'm from Brazil 🇧🇷 and I'm a developer that has been working as a Mobile and Front-end developer since 2019.
 
-Here are some ideas to get you started:
+ I'm passionate about mobile development and care about the user experience...I'm always improving my hard skills as a developer, doing networking with co-workers and using the most modern techs.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### "If you are offered a seat on a rocket, don't ask which seat it is. Just get on the rocket!"🚀
+
+ - 📱I'm studying React Native for mobile development
+ - 👨🏽‍💻I work with tech since 2014
+ - 💻I'm currently attending college of systems analysis and development
+ - 🌎I had the great pleasure to help people
+ - 🎮I love to play videogames in my leisure time
