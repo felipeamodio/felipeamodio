@@ -4,12 +4,12 @@ My name is Felipe Alves, I'm from Brazil 🇧🇷 and I'm a developer that has b
 
  I'm passionate about mobile development and care about the user experience...I'm always improving my hard skills as a developer, doing networking with co-workers and using the most modern techs.  
 
-##### "If you are offered a seat on a rocket, don't ask which seat it is. Just get on the rocket!"🚀
+##### "If you are offered a seat on a rocket, don't ask which seat it is. Just get on the rocket!" - Sheryl Sandberg 🚀
 
  - 📱 I'm studying React Native for mobile development
  - 👨🏽‍💻 I work with tech since 2014
  - 💻 I'm currently attending college of systems analysis and development
- - 🌎 I had the great pleasure to help people
+ - 🌎 I have the great pleasure to help people
  - 🎮 I love to play videogames in my leisure time
 
 Reach me out 👇🏽
