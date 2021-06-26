@@ -1,6 +1,6 @@
 # Hey Everyone🖖🏽
 
-My name is Felipe Alves, I'm from Brazil 🇧🇷 and I'm a developer that has been working as a Mobile and Front-end developer since 2019.
+My name is Felipe, I'm from Brazil 🇧🇷 and I'm a developer that has been working as a Mobile and Front-end developer since 2019.
 
  I'm passionate about mobile development and care about the user experience...I'm always improving my hard skills as a developer, doing networking with co-workers and using the most modern techs.  
 
