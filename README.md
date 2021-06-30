@@ -10,7 +10,7 @@ My name is Felipe, I'm from Brazil 🇧🇷 and I'm a developer that has been wo
  - 👨🏽‍💻 I work with tech since 2014
  - 💻 I'm currently attending college of systems analysis and development
  - 🌎 I have the great pleasure to help people
- - 🎮 I love to play videogames in my leisure time
+ - 🎮 I love to play videogames and play the guitar in my leisure time
 
 Reach me out 👇🏽
 <p>
