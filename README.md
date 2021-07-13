@@ -8,7 +8,7 @@ My name is Felipe, I'm from Brazil 🇧🇷 and I'm a developer that has been wo
 
  - 📱 I'm studying React Native for mobile development
  - 👨🏽‍💻 I work with tech since 2014
- - 💻 I'm currently studying systems analysis and development
+ - 💻 I'm currently studying systems analysis and development at FIAP
  - 🌎 I have the great pleasure to help people
  - 🎮 I love to play videogames and play the guitar in my leisure time
 
