@@ -12,6 +12,8 @@ My name is Felipe, I'm from Brazil 🇧🇷 and I'm a developer that has been wo
  - 🌎 I have the great pleasure to help people
  - 🎮 I love to play videogames and play the guitar in my leisure time
 
+<a href="https://app.daily.dev/felipeamodio"><img src="https://api.daily.dev/devcards/076f5762779a4af49ff0e830d9a2ba97.png?r=sia" width="400" alt="Felipe Alves Amodio's Dev Card"/></a>
+
 ##
 
 ### Reach me out 👇🏽
