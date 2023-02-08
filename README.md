@@ -30,7 +30,6 @@ My name is Felipe, I'm a developer and currently I'm working as a react native d
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/) [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://github.com/felipeamodio/) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/)
 
 **Versioning**
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/)  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/) [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/ildaneta/)](https://github.com/felipeamodio/)
 
 ### Reach me out 👇🏽
