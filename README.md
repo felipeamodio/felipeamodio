@@ -2,7 +2,11 @@
 Hey Everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-My name is Felipe, I'm a developer and currently I'm working as a react native developer. 
+<h4 style="align-items: center;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;">
+  My name is Felipe, I'm a passionate mobile developer working with React Native
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="20" style="vertical-align: middle; margin-right: 4px;">
+</h4>
 
 ##### If you are offered a seat on a rocket, don't ask which seat it is. Just get on the rocket! - Sheryl Sandberg 🚀
 
